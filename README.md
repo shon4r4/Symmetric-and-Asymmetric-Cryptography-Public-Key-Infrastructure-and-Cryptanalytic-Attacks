@@ -1,6 +1,6 @@
 # Lab 2 — Symmetric and Asymmetric Cryptography, PKI and Cryptanalytic Attacks
 
-**Authors:** Ivana P, Nenand S, Abhishek M  
+**Authors:** Nenand S  
 **Course:** Secure Computer Networks — Lab 2  
 **Date:** (submission)
 
