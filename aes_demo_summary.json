@@ -1,0 +1,7 @@
+{
+  "mode": "gcm",
+  "key_hex": "fea59cfe0e98477bad9eaf8526205c354f5342e10b6597b80039595c66cc29c2",
+  "nonce_hex": "3e5bb7be8f86c8ccf2f63a4e",
+  "cipher_hex": "2190b9873b66edc215edaef4ecb05da5b50a",
+  "tag_hex": "8866d893bebb66ea1652ff25547b8c65"
+}

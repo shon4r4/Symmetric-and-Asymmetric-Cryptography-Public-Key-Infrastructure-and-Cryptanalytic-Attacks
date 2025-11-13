@@ -1,0 +1,22 @@
+{
+  "rsa_generate": {
+    "returncode": 0,
+    "stdout": "Generated RSA keypair (saved to rsa_demo_key.json)\n",
+    "stderr": ""
+  },
+  "aes_gcm": {
+    "returncode": 0,
+    "stdout": "GCM nonce (hex): 3e5bb7be8f86c8ccf2f63a4e\nGCM ciphertext (hex): 2190b9873b66edc215edaef4ecb05da5b50a\nGCM tag (hex): 8866d893bebb66ea1652ff25547b8c65\n\nSummary written to aes_demo_summary.json\n",
+    "stderr": ""
+  },
+  "dh_demo": {
+    "returncode": 0,
+    "stdout": "Diffie-Hellman demo (finite field)\nAlice private a: 6316755951881054399\nBob private b  : 516642870779955616\nAlice public A : 0x4f907cd42e783e02\nBob public B   : 0xdffcd0252d741000\nShared secret  : 0xf8043dd5fb2bd80d\nDerived key (SHA-256): 1d24ee00fa3a1a7a8126566abf6558e87357ac955e3ab348b07986c993fbe2dd\n",
+    "stderr": ""
+  },
+  "bleichenbacher_oracle": {
+    "returncode": 0,
+    "stdout": "Bleichenbacher demo oracle (local).\nPublic key (n,e): 4326693944565321019492645243815085125844999998495789448707879347943352675365102343617246594169629550683319076999555154664867151757339623826821852149438261 65537\nCiphertext (hex): 0x14a52d59147b40b3cad7e1bef074dc2e2427290d626abd6effea68ae09bb7714c504b6179c93135f04e1e631271844afaffbf9e666626017720cf5dd2256d973\nOracle padding_valid?: False\n",
+    "stderr": ""
+  }
+}
